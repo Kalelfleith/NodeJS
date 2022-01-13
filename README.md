@@ -19,4 +19,4 @@
 - **Express-validator:** Para validação de dados
 - **Express-session:** Para criação de variáveis de sessão
 - **Crypto:** Para criptografia de dados utilizando MD5
-- **Connect-multiplarty:** Para upload de arquivo
+- **Connect-multiparty:** Para upload de arquivo
